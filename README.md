@@ -8,7 +8,8 @@
 > After installing put your tokens in tokens.txt
 >
 > open _install.bat_ It will automatically vote using tokens
-> 
+- https://www.youtube.com/watch?v=q7sHNl2kNeQ
+
 
 ## 🎆 〢 Requirements
 - Chrome beta version (As of 10 Jul 2022, latest chrome version 103 does NOT work, install chrome beta v104 [here](https://www.google.com/chrome/beta/))
