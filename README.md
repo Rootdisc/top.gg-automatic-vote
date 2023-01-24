@@ -1,7 +1,9 @@
 <a id="top"></a>
 ## 📁  〢 Setting Up
 > Install [Python](https://www.python.org/downloads/) 
+>
 > After installing put your tokens in tokens.txt
+>
 > open _install.bat_ It will automatically vote using tokens
 > 
 
