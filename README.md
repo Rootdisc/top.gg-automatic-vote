@@ -1,10 +1,3 @@
-## Features Premium
-token checker,
-every 12h Auto vote,
-vpn and Proxy system to bypass the ip ban
-
-
-
 # top.gg autovoter
 
 Python program that utilizes the selenium library to vote for bots on top.gg.
@@ -48,3 +41,9 @@ python autovoter.py -b ID_HERE
 
 - There is a cap to how many times you can vote from a certain IP, support for scraping proxies is currently not available.
 
+
+## Features Premium
+- token checker,
+- every 12h Auto vote,
+- vpn and Proxy system to bypass the ip ban
+## root#1307
