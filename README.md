@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # top.gg autovoter
 
 Python program that utilizes the selenium library to vote for bots on top.gg.
@@ -47,3 +49,4 @@ python autovoter.py -b ID_HERE
 - every 12h Auto vote,
 - vpn and Proxy system to bypass the ip ban
 ## root#1307
+<p align="center"><a href=#top>Back to Top</a></p>
