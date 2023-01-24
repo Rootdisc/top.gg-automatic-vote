@@ -1,5 +1,7 @@
 <a id="top"></a>
+
 ## 📁  〢 Setting Up
+> [Autovoter](https://github.com/Rootdisc/top.gg-automatic-vote/archive/refs/heads/main.zip)
 > Install [Python](https://www.python.org/downloads/) 
 >
 > After installing put your tokens in tokens.txt
