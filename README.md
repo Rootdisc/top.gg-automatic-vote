@@ -8,7 +8,6 @@
 > After installing put your tokens in tokens.txt
 >
 > open _install.bat_ It will automatically vote using tokens
-- https://www.youtube.com/watch?v=q7sHNl2kNeQ
 
 
 ## 🎆 〢 Requirements
